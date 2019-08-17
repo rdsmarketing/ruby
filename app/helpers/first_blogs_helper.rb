@@ -1,0 +1,2 @@
+module FirstBlogsHelper
+end
