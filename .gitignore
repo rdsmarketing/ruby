@@ -27,4 +27,4 @@
 /config/master.key
 
 #This is the RSA KEY For Github
-/ssk-key
+/config/ssk-key
